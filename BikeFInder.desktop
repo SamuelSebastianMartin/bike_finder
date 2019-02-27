@@ -1,0 +1,6 @@
+[Desktop Entry]
+Name=Bike Finder
+Exec= /PATH/TO/bike_finder.py
+Terminal=true
+Type=Application
+Icon=/PATH/TO/ICON/IMAGE/BikeFInder.png
