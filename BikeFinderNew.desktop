@@ -1,0 +1,7 @@
+#!/usr/bin/env xdg-open
+[Desktop Entry]
+Name=Bike Finder
+Exec= ~/Programs/python/bike_finder/bike_finder.py
+Terminal=true
+Type=Application
+Icon= /home/manjaro/.icons/bikefinder_icon.xcf
